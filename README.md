@@ -21,3 +21,7 @@ User type seems not to affect the number of rides on any given day. And for any 
 For the presentation, I focus on the frequencies of rides per hour, day, and user type while leaving out other variables. I start by checking out trip frequencies by hours and days of the week and the user type using seaborn countplot.
 
 Afterwards,  I introduce each of the categorical variables one by one. To start, I use the boxplot plots of duration across days and user type. The other two categorical variables, days and user type, are covered afterwards, using point plots. I've made sure to use different color palettes for each quality variable to make sure is clear that they're different between plots.
+
+
+### Blog Post
+[on medium]([https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv](https://tiamiyu.medium.com/ford-gobike-system-data-exploration-fb5b229d4106))
