@@ -24,4 +24,4 @@ Afterwards,  I introduce each of the categorical variables one by one. To start,
 
 
 ### Blog Post
-[on medium]([https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv](https://tiamiyu.medium.com/ford-gobike-system-data-exploration-fb5b229d4106))
+[on medium](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv](https://tiamiyu.medium.com/ford-gobike-system-data-exploration-fb5b229d4106)
