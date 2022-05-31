@@ -1,6 +1,5 @@
 # Ford GoBike System Exploration
-This is the 3rd project in the Udacity Data Analyst Nanodegree program
-## Abdulwasiu Tiamiyu
+This is the 3rd project in the **Udacity Data Analyst** Nanodegree program
 
 
 ## Dataset
